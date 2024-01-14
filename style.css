@@ -1,0 +1,64 @@
+.bg{
+    background-image:url("./background.jpg");
+    filter: brightness(50%);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+body{
+    margin: 0;
+}
+
+#site-name{
+    color: orange;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 40px;
+    font-size: 35px;
+    font-family: 'br-cobane', sans-serif;
+}
+
+#below-name{
+    color: whitesmoke;
+    font-family: 'br-cobane', sans-serif;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+hr{
+    width: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.table{
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 33%;
+    padding: 20px;
+    border: 10px;
+    margin: -2px;
+}
+
+.block{
+    width: 75px;
+    padding: 20px;
+}
+
+span{
+    color: darkgreen;
+}
+
+.text{
+    margin-bottom: 30px;
+}
+
+.margin{
+    margin: 10 150;
+}
