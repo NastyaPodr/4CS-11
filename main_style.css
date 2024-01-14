@@ -1,0 +1,103 @@
+.margin {
+    margin: 0 15%;
+}
+
+#site-name {
+    color: whitesmoke;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'br-cobane', sans-serif;
+    padding-top: 30px;
+    font-size: 30px;
+   }
+
+#below-name {
+    text-align: center;
+    padding: 20px;
+    color: rgb(133, 133, 133);
+    font-family: 'br-cobane', sans-serif;
+}
+
+.marketing {
+    box-sizing: border-box;
+    width: 30%;
+    margin: 5 1.45%;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    font-family: 'br-cobane', sans-serif;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #40464f;
+}
+
+.consultancy {
+    box-sizing: border-box;
+    width: 30%;
+    margin: 5 1.45%;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    font-family: 'br-cobane', sans-serif;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #40464f;
+}
+
+.effective {
+    box-sizing: border-box;
+    width: 30%;
+    margin: 5 1.45%;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    font-family: 'br-cobane', sans-serif;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #40464f;
+}
+
+.strategy {
+    box-sizing: border-box;
+    width: 30%;
+    margin: 5 1.45%;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    font-family: 'br-cobane', sans-serif;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #40464f;
+}
+
+.agile {
+    box-sizing: border-box;
+    width: 30%;
+    margin: 5 1.45%;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    font-family: 'br-cobane', sans-serif;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #40464f;
+}
+
+.support {
+    box-sizing: border-box;
+    width: 30%;
+    margin: 5 1.45%;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    font-family: 'br-cobane', sans-serif;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #40464f;
+}
