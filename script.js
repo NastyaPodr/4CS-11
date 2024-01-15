@@ -10,7 +10,6 @@ convertButton.addEventListener("click", function() {
     for (var i = 0; i < text.length; i++) {
         var letter = text[i].toLowerCase();
 
-        // Створити новий елемент зображення
         var img = document.createElement("img");
         img.src = "./images/" + letter + ".png";
         img.alt = letter;
